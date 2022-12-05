@@ -63,3 +63,4 @@ Makefile
 # Visual Studio files and folder
 *.sln
 *.vcxproj*
+ImGui.cmake
